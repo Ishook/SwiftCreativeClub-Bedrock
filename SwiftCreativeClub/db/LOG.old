@@ -1,0 +1,13 @@
+2020/01/22-11:57:23.688327 b8afdaf0 Recovering log #7267
+2020/01/22-11:57:23.695381 b8afdaf0 Level-0 table #7270: started
+2020/01/22-11:57:23.728154 b8afdaf0 Level-0 table #7270: 4759 bytes OK
+2020/01/22-11:57:23.783511 b8afdaf0 Delete type=0 #7267
+2020/01/22-11:57:23.785282 b8afdaf0 Delete type=3 #7265
+2020/01/22-11:57:25.086775 b8bd3a98 Moved #7270 to level-1 4759 bytes OK: files[ 0 1 13 0 0 0 0 ]
+2020/01/22-11:57:26.531360 b8bd3a98 Compacting 1@1 + 1@2 files
+2020/01/22-11:57:30.912014 b8bd3a98 Generated table #7272@1: 15995 keys, 2169209 bytes
+2020/01/22-11:57:30.922686 b8bd3a98 Generated table #7273@1: 6 keys, 1320 bytes
+2020/01/22-11:57:30.922843 b8bd3a98 Compacted 1@1 + 1@2 files => 2170529 bytes
+2020/01/22-11:57:30.942324 b8bd3a98 compacted to: files[ 0 0 14 0 0 0 0 ]
+2020/01/22-11:57:30.943823 b8bd3a98 Delete type=2 #7270
+2020/01/22-11:57:30.944358 b8bd3a98 Delete type=2 #7268
